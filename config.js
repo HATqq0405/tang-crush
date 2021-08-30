@@ -4,7 +4,7 @@ const CONFIG = {
     Anh có biết tại sao gió đến rồi lại bay nhanh?
     Tại sao tuyết cứ trắng ngần? Mà nắng cứ ươm vàng?
     Thôi kệ đi, em yêu anh!`,
-    btnIntro: 'hihi',
+    btnIntro: 'luv u',
     title: 'Phải chăng anh đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng anh đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'Vẫn cứ là thích em <33',
